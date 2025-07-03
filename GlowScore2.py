@@ -12,7 +12,7 @@ page = query_params.get("page", "home")
 
 client = OpenAI(
     base_url="https://models.github.ai/inference",
-    api_key="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"
+    api_key="your_api_key"
 )
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
