@@ -1,0 +1,8 @@
+streamlit
+pillow
+pytesseract
+openai
+pandas
+numpy
+matplotlib
+requests
