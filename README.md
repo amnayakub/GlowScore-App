@@ -5,6 +5,8 @@ GlowScore is an AI-powered skincare analyzer that helps users determine whether 
 Link to the web-app: [https://glowscore-app.streamlit.app/](https://glowscore-app.streamlit.app/)  
 ![GlowScore Screenshot](GlowScoreThumbnail2.png)
 
+(bug fixing yet to be done)
+
 ---
 
 ## Tech Stack
