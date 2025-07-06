@@ -1,11 +1,8 @@
 # GlowScore — Skincare Ingredient Analyzer
 
 GlowScore is an AI-powered skincare analyzer that helps users determine whether a product is safe, effective, and compatible with their unique skin type. It’s a full-stack application that combines large language models (LLMs), optical character recognition (OCR), and real-world cosmetic ingredient data gathered from domain research to provide users with detailed skincare evaluations.
-
-Link to the web-app: [https://glowscore-app.streamlit.app/](https://glowscore-app.streamlit.app/)  
+ 
 ![GlowScore Screenshot](GlowScoreThumbnail2.png)
-
-(bug fixing yet to be done)
 
 ---
 
